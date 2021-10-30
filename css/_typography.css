@@ -1,0 +1,10 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: var(--primary-color);
+}
+
+.nav-link {
+  font-family: "Archivo Narrow", sans-serif;
+  text-transform: uppercase;
+  color: var(--secondary-color);
+}
