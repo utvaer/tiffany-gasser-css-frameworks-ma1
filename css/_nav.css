@@ -1,3 +1,9 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--background-color-light) !important;
+}
+
 .navbar-light .navbar-nav .active > .nav-link {
-  color: var(--primary-colour);
+  color: var(--accent-colour);
 }

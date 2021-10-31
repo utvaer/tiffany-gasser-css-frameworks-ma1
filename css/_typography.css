@@ -3,6 +3,11 @@ body {
   color: var(--primary-color);
 }
 
+h1 {
+  text-align: center;
+  padding: 1em;
+}
+
 .nav-link {
   font-family: "Archivo Narrow", sans-serif;
   text-transform: uppercase;
